@@ -3,7 +3,6 @@ import { ChatService, Message } from './../services/chat.service';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { Observable } from 'rxjs';
 import { IonContent } from '@ionic/angular';
-import { ThisReceiver } from '@angular/compiler';
 
 
 @Component({
