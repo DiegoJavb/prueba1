@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud2-bf150": {
+      "hosting": {
+        "app": [
+          "crud2-bf150"
+        ]
+      }
+    }
+  }
+}
